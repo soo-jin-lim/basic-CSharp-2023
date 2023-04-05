@@ -5,3 +5,11 @@
 	- .NET frame
 	- Visual stdio
 	- 기본 문법
+
+## 2일차
+- C# 기본
+	- 기본문법
+
+- Win App
+	- Wimforms vs WPF 개요
+	- Winform
