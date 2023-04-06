@@ -12,4 +12,11 @@
 
 - Win App
 	- Wimforms vs WPF 개요
-	- Winform
+	- Winforms 기초
+
+## 3일차
+- C# 기본
+	- 클래스
+
+- Win App 
+	- Winforms 컨트롤
