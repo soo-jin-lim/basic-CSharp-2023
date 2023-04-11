@@ -39,3 +39,15 @@
 5일차 윈도우 탐색기 만들기
 https://raw.githubusercontent.com/soo-jin-lim/basic-CSharp-2023/main/Win.png
 
+## 6일차
+- C# 기본
+	- 컬렉션
+	- 일반화(Geneic) 프로그래밍
+	- 에외처리
+
+- Wim App
+	- 탐색기 마무리
+	- DB핸들링
+	- BookRentalShop DB 사용 WinForms 앱 개발
+	- 실습 예제
+
