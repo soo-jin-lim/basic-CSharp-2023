@@ -50,6 +50,7 @@ https://raw.githubusercontent.com/soo-jin-lim/basic-CSharp-2023/main/Win.png
 	- DB핸들링
 	- BookRentalShop DB 사용 WinForms 앱 개발
 	- 실습 예제
+https://raw.githubusercontent.com/soo-jin-lim/basic-CSharp-2023/main/123.png
 
 
 ## 7일차
@@ -65,7 +66,7 @@ https://raw.githubusercontent.com/soo-jin-lim/basic-CSharp-2023/main/Win.png
 	- SDI vs MDI
 	- BookRentalShop DB 사용 WinForms 앱개발
 	- 실습예제
-	
+
 ## 8일차
 - C#  기본
 	- 파일 핸들링
@@ -75,3 +76,4 @@ https://raw.githubusercontent.com/soo-jin-lim/basic-CSharp-2023/main/Win.png
 - WinApp
 	- Booklental shop DB 사용 WinForms 앱 개발
 	- 실습 예제
+	https://raw.githubusercontent.com/soo-jin-lim/basic-CSharp-2023/main/note.png
