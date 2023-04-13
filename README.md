@@ -38,7 +38,7 @@
 	- window 탐색기 만들기
 5일차 윈도우 탐색기 만들기
 
-https://raw.githubusercontent.com/soo-jin-lim/basic-CSharp-2023/main/Win.png
+<img src = "https://raw.githubusercontent.com/soo-jin-lim/basic-CSharp-2023/main/Win.png" width = "780" />
 
 ## 6일차
 - C# 기본
@@ -51,7 +51,7 @@ https://raw.githubusercontent.com/soo-jin-lim/basic-CSharp-2023/main/Win.png
 	- DB핸들링
 	- BookRentalShop DB 사용 WinForms 앱 개발
 	- 실습 예제
-https://raw.githubusercontent.com/soo-jin-lim/basic-CSharp-2023/main/123.png
+<img src = "https://raw.githubusercontent.com/soo-jin-lim/basic-CSharp-2023/main/123.png" width = "780" />
 
 
 ## 7일차
@@ -77,4 +77,4 @@ https://raw.githubusercontent.com/soo-jin-lim/basic-CSharp-2023/main/123.png
 - WinApp
 	- Booklental shop DB 사용 WinForms 앱 개발
 	- 실습 예제
-	https://raw.githubusercontent.com/soo-jin-lim/basic-CSharp-2023/main/note.png
+	<img src = "https://raw.githubusercontent.com/soo-jin-lim/basic-CSharp-2023/main/note.png" width = "780" />
