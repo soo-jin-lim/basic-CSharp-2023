@@ -124,5 +124,10 @@ namespace wf13_booklentalshop
                 TxtPassword.Focus();
             }
         }
+
+        private void FrmLogin_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

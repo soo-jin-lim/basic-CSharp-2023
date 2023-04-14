@@ -21,7 +21,7 @@
 - Win App 
 	- Winforms 컨트롤
 	- 리스트뷰, 데이터 리그 추가학습필요
-	https://raw.githubusercontent.com/soo-jin-lim/basic-CSharp-2023/main/1.png
+	<img src = "https://raw.githubusercontent.com/soo-jin-lim/basic-CSharp-2023/main/1.png" width = "780" />
 	
 ## 4일차
 - C# 기본
@@ -37,7 +37,7 @@
 	- Winforms 디자인 오류시 해결방법
 	- window 탐색기 만들기
 5일차 윈도우 탐색기 만들기
-https://raw.githubusercontent.com/soo-jin-lim/basic-CSharp-2023/main/Win.png
+<img src = "https://raw.githubusercontent.com/soo-jin-lim/basic-CSharp-2023/main/Win.png" width = "780" />
 
 ## 6일차
 - C# 기본
@@ -50,7 +50,7 @@ https://raw.githubusercontent.com/soo-jin-lim/basic-CSharp-2023/main/Win.png
 	- DB핸들링
 	- BookRentalShop DB 사용 WinForms 앱 개발
 	- 실습 예제
-https://raw.githubusercontent.com/soo-jin-lim/basic-CSharp-2023/main/123.png
+<img src = "https://raw.githubusercontent.com/soo-jin-lim/basic-CSharp-2023/main/123.png" width = "780" />
 
 
 ## 7일차
@@ -70,10 +70,20 @@ https://raw.githubusercontent.com/soo-jin-lim/basic-CSharp-2023/main/123.png
 ## 8일차
 - C#  기본
 	- 파일 핸들링
-	- 스레드/ 테스크
-	- 가비지 컬렉션
-
+	- 윈폼 메모장(파일핸들링)
 - WinApp
 	- Booklental shop DB 사용 WinForms 앱 개발
-	- 실습 예제
-	https://raw.githubusercontent.com/soo-jin-lim/basic-CSharp-2023/main/note.png
+	- Windows MDI
+	- MySQL.Data Lib DB 연동
+
+
+	심플메모장
+	<img src = "https://raw.githubusercontent.com/soo-jin-lim/basic-CSharp-2023/main/note.png" width = "780" />
+	
+## 9일차
+- C# 기본
+	- 스레드/ 테스크
+	- 가비지 컬렉션
+- WinApp 
+	- BookRentalShop 만들기 계속
+	
