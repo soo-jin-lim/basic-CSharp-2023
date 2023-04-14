@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fw14_winforms_thread", "fw14_winforms_thread\fw14_winforms_thread.csproj", "{2AC6CD0E-2C56-4735-906E-42D9DEC4C491}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wf13_booklentalshop", "wf13_booklentalshop\wf13_booklentalshop.csproj", "{962E6C34-95C7-45B0-AA2D-BB19380ACABE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AC6CD0E-2C56-4735-906E-42D9DEC4C491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AC6CD0E-2C56-4735-906E-42D9DEC4C491}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AC6CD0E-2C56-4735-906E-42D9DEC4C491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AC6CD0E-2C56-4735-906E-42D9DEC4C491}.Release|Any CPU.Build.0 = Release|Any CPU
+		{962E6C34-95C7-45B0-AA2D-BB19380ACABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{962E6C34-95C7-45B0-AA2D-BB19380ACABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{962E6C34-95C7-45B0-AA2D-BB19380ACABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{962E6C34-95C7-45B0-AA2D-BB19380ACABE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF3B1900-9ABA-4D09-8CA5-F5ADCFC1272B}
+	EndGlobalSection
+EndGlobal

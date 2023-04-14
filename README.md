@@ -87,7 +87,12 @@
 	- 가비지 컬렉션
 - WinApp 
 	- BookRentalShop 만들기 계속
-	- 
-	
+
+## 10일차
+- Win App
+	- BookBentalShop 
+
+- 코딩테스트
+	ㄴ
 
 
