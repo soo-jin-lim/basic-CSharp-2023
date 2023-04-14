@@ -37,6 +37,10 @@
 	- Winforms 디자인 오류시 해결방법
 	- window 탐색기 만들기
 5일차 윈도우 탐색기 만들기
+<<<<<<< HEAD
+=======
+
+>>>>>>> c662209665c927723a63d8cc531591b1314e713f
 <img src = "https://raw.githubusercontent.com/soo-jin-lim/basic-CSharp-2023/main/Win.png" width = "780" />
 
 ## 6일차
@@ -73,6 +77,7 @@
 	- 윈폼 메모장(파일핸들링)
 - WinApp
 	- Booklental shop DB 사용 WinForms 앱 개발
+<<<<<<< HEAD
 	- Windows MDI
 	- MySQL.Data Lib DB 연동
 
@@ -87,3 +92,7 @@
 - WinApp 
 	- BookRentalShop 만들기 계속
 	
+=======
+	- 실습 예제
+	<img src = "https://raw.githubusercontent.com/soo-jin-lim/basic-CSharp-2023/main/note.png" width = "780" />
+>>>>>>> c662209665c927723a63d8cc531591b1314e713f
