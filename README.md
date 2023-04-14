@@ -38,6 +38,7 @@
 	- window 탐색기 만들기
 
 5일차 윈도우 탐색기만들기
+
 <img src = "https://raw.githubusercontent.com/soo-jin-lim/basic-CSharp-2023/main/Win.png" width = "780" />
 
 ## 6일차
@@ -77,8 +78,8 @@
 	- Windows MDI
 	- MySQL.Data Lib DB 연동
 
-
 	심플메모장
+	
 	<img src = "https://raw.githubusercontent.com/soo-jin-lim/basic-CSharp-2023/main/note.png" width = "780" />
 	
 ## 9일차
