@@ -77,8 +77,8 @@
 	- Windows MDI
 	- MySQL.Data Lib DB 연동
 
-
 	심플메모장
+	
 	<img src = "https://raw.githubusercontent.com/soo-jin-lim/basic-CSharp-2023/main/note.png" width = "780" />
 	
 ## 9일차
